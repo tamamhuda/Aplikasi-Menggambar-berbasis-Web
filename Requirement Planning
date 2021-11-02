@@ -10,13 +10,15 @@ Fitur user
 Fitur Admin
 -	melihat user, melihat daftar gambar, menghapus gambar
 
-adapun spesifikasi hardware dan software yang dapat mendukung untuk menghasilkan aplikasi ini ialah
+adapun spesifikasi minimum hardware dan software yang dapat mendukung untuk menghasilkan aplikasi ini ialah
+
 Hardware
 -	Procesor : dual core 1.5 Ghz
--	VGA      : Intel HD 3000
+-	VGA      : Intel HD 3000 128MB vram
 -	RAM      : 1024 MB / 1 GB 
--	Memory   : Mininum 10 GB space
--	Browser  : Mozilla Firefox atau Google Chrome
+-	Memory   : Mininum 10 GB space require
+-	Browser  : Mozilla Firefox , google Chrome , microsoft edge atau browser yang menggunakan plugin seperti plash player
+
 Software
 -	XAMPP
 -	Microsoft Visual Studio Code
