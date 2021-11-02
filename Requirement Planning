@@ -1,0 +1,23 @@
+Requirement Planning
+Paint Web
+ 
+client  membutuhkan suatu aplikasi sarana belajar bagi anak kecil yang mudah digunakan
+dan hasil yang dicapai ialah aplikasi menggambar berbasis web dimana aplikasi ini dapat meningkatkan kreativitas anak 
+ 
+terdapat 2 fitur yaitu fitur user dan admin
+Fitur user
+-	menggambar, menghapus, menyimpan, melihat daftar gambar
+Fitur Admin
+-	melihat user, melihat daftar gambar, menghapus gambar
+
+adapun spesifikasi hardware dan software yang dapat mendukung untuk menghasilkan aplikasi ini ialah
+Hardware
+-	Procesor 	: dual core 1.5 Ghz
+-	VGA 		: Intel HD 3000
+-	RAM             	: 1024 MB / 1 GB 
+-	Memory       	: Mininum 10 GB space
+-	Browser       	: Mozilla Firefox atau Google Chrome
+Software
+-	XAMPP
+-	Microsoft Visual Studio Code
+-	Windows
