@@ -2,7 +2,9 @@ Requirement Planning
 Paint Web
  
 client  membutuhkan suatu aplikasi sarana belajar bagi anak kecil yang mudah digunakan
-dan hasil yang dicapai ialah aplikasi menggambar berbasis web dimana aplikasi ini dapat meningkatkan kreativitas anak 
+dan hasil yang dicapai ialah aplikasi menggambar berbasis web dimana aplikasi ini dapat meningkatkan kreativitas anak, aplikasi ini memberikan sebuah kanvas yang 
+berguna sebagai media untuk menggambar lalu dengan menggunakan cursor sebagai brush untuk memberikan goresan pada kanvas yang dimana brushnya dapat diatur warna 
+dan ukuran goresannya.
  
 terdapat 2 fitur yaitu fitur user dan admin
 Fitur user
