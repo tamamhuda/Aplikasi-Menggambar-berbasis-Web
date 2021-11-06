@@ -8,7 +8,7 @@ dan ukuran goresannya.
  
 terdapat 2 fitur yaitu fitur user dan admin
 Fitur user
--	menggambar, menghapus, menyimpan, melihat daftar gambar
+-	login, daftar , menggambar, menghapus, menyimpan, melihat daftar gambar
 Fitur Admin
 -	melihat user, melihat daftar gambar, menghapus gambar
 
