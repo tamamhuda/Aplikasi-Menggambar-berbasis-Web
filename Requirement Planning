@@ -10,7 +10,7 @@ terdapat 2 fitur yaitu fitur user dan admin
 Fitur user
 -	login, daftar , menggambar, menghapus, menyimpan, melihat daftar gambar
 Fitur Admin
--	melihat user, melihat daftar gambar, menghapus gambar
+-	Mengelola user, Mengelola daftar gambar, menghapus gambar
 
 adapun spesifikasi minimum hardware dan software yang dapat mendukung untuk menghasilkan aplikasi ini ialah
 
