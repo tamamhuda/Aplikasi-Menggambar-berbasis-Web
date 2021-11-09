@@ -9,8 +9,8 @@ Tahapan dalam membangun aplikasi yaitu sebagai berikut.
       antara lain : Fitur User dan Fitur Admin
   
   - Tahapan Kedua
-      tahap ini dilakukan testing terhadap aplikasimenggunakan metode Blackbox Testing
-      adapun hasil dari testing sebagai berikut :
+      tahap ini dilakukan testing terhadap aplikasi menggunakan metode Blackbox Testing
+  
       
   - Tahapan Ketiga 
       Tahapan ini adalah proses perbaikan jika ada suatu bug/error, hingga benar benar semua 
