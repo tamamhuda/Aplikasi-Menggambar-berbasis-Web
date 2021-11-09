@@ -1,0 +1,27 @@
+Requirement Planning
+Paint Web
+ 
+client  membutuhkan suatu aplikasi sarana belajar bagi anak kecil yang mudah digunakan
+dan hasil yang dicapai ialah aplikasi menggambar berbasis web dimana aplikasi ini dapat meningkatkan kreativitas anak, aplikasi ini memberikan sebuah kanvas yang 
+berguna sebagai media untuk menggambar lalu dengan menggunakan cursor sebagai brush untuk memberikan goresan pada kanvas yang dimana brushnya dapat diatur warna 
+dan ukuran goresannya.
+ 
+terdapat 2 fitur yaitu fitur user dan admin
+Fitur user
+-	login, daftar , menggambar, menghapus, menyimpan, melihat daftar gambar
+Fitur Admin
+-	Mengelola user, Mengelola daftar gambar
+
+adapun spesifikasi minimum hardware dan software yang dapat mendukung untuk menghasilkan aplikasi ini ialah
+
+Hardware
+-	Procesor : dual core 1.5 Ghz
+-	VGA      : Intel HD 3000 128MB vram
+-	RAM      : 1024 MB / 1 GB 
+-	Memory   : Mininum 10 GB space require
+-	Browser  : Mozilla Firefox , google Chrome , microsoft edge atau browser yang menggunakan plugin seperti plash player
+
+Software
+-	XAMPP
+-	Microsoft Visual Studio Code
+-	Windows
